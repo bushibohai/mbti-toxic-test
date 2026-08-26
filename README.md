@@ -4,7 +4,7 @@
 
 把娱乐人格测试做成可体验、可分享的网页：32 道主测、8 道可选隐藏面加测、16 个人格角色和带标签的分享卡。重点不是“让 AI 写一个页面”，而是持续完成需求取舍、体验验收、问题定位与发布验证。
 
-[在线体验](https://bushibohai.github.io/mbti-toxic-test/) · [完整开发流程](docs/PROCESS.md) · [技术与取舍](docs/ARCHITECTURE.md) · [验证与迭代证据](docs/VALIDATION.md) · [简历与面试材料](docs/RESUME.md)
+[在线体验](https://bushibohai.github.io/mbti-toxic-test/) · [完整开发流程](docs/PROCESS.md) · [技术与取舍](docs/ARCHITECTURE.md) · [验证与迭代证据](docs/VALIDATION.md)
 
 > 仅供娱乐与自我观察，不是官方 MBTI 测评，不构成心理或医学评估。AI 用于开发协作；在线测试使用本地规则评分，不调用大模型分析用户答案。
 
@@ -58,7 +58,7 @@
 index.html           轻量入口、加载与失败提示
 assets/              编译后的 JavaScript / CSS
 characters/          16 张压缩 WebP 人物素材
-docs/                开发复盘、技术说明、验证与简历材料
+docs/                开发复盘、技术说明与验证记录
 .nojekyll            GitHub Pages 静态发布标记
 ```
 
